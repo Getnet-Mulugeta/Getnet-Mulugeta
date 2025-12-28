@@ -1,6 +1,7 @@
 </a><h1 align="center">Hi 👋, I'm Getnet</h1>
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?
+    https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;QA+Engineer;React+%7C+Node.js;Docker+%7C+Software+Engineer
 type=glitch
 &text1=Full-Stack%20%26%20AI%20Developer
 &width=800

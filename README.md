@@ -1,15 +1,11 @@
 flagot, [12/28/2025 10:44 AM]
 <h1 align="center">Hi 👋, I'm Getnet</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?
-type=rect
-&color=gradient
-&height=120
-&section=header
-&text=Full-Stack%20%26%20AI%20Developer
-&fontSize=40
-&fontColor=ffffff
-&animation=fadeIn"Typing SVG" />
+  <img src="https://svg-banners.vercel.app/api?
+type=glitch
+&text1=Full-Stack%20%26%20AI%20Developer
+&width=800
+&height=120"/>
 </p>
 
 

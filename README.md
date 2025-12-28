@@ -17,7 +17,7 @@ Python | JavaScript | Web Development | Web Scraping</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=getnet-mulugeta&label=Profile%20views&color=0e75b6&style=flat" alt="getenet-mulugeta" />
 </p>
-<img align="right" alt="Coding" width="400" height="270" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" height="270" src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://tenor.com/view/coding-gif-15854185084791044857.gif)">
 
 
 

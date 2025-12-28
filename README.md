@@ -1,5 +1,3 @@
-<a href="https://github.com/seme-abera">
-  <img src="https://github.com/getnet-mulugeta/getenet-mulugeta/blob/output/profile-summary-card-output/github_dark/0-profile-details.svg" />
 </a><h1 align="center">Hi 👋, I'm Getnet</h1>
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?

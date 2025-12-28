@@ -1,3 +1,6 @@
+<a href="https://github.com/seme-abera">
+  <img src="https://github.com/getnet-mulugeta/getenet-mulugeta/blob/output/profile-summary-card-output/github_dark/0-profile-details.svg" />
+</a>
 flagot, [12/28/2025 10:44 AM]
 <h1 align="center">Hi 👋, I'm Getnet</h1>
 <p align="center">

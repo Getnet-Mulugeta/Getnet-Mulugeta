@@ -37,9 +37,7 @@ Python | JavaScript | Web Development | Web Scraping</h3>
 </p>
 
 <!-- ✅ 5. Dynamic Dev Card (Enable profile-summary-cards GitHub Action) -->
-<a href="https://github.com/seme-abera">
-  <img src="https://github.com/getnet-mulugeta/getenet-mulugeta/blob/output/profile-summary-card-output/github_dark/0-profile-details.svg" />
-</a>
+
 
 <!-- ✅ 6. QR Code to Email -->
 <h3 align="center">📬 Contact Me</h3>

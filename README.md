@@ -57,38 +57,6 @@ Python | JavaScript | Web Development | Web Scraping</h3>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
-
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=getnet-mulugeta&show_icons=true&theme=radical" alt="seme555 stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=getnet-mulugeta&layout=compact&theme=radical" alt="top languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=getnet-mulugeta&theme=radical&hide_border=true" />
-</p>
-
-
-
-
-
-### 📁 Featured Projects
-
-
-
-
-
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="mailto:getnetmulugeta2000@email.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
-</p>
-
-
-
-
-
-
 # 💻 Tech Stack
 
 ## Core Technologies
